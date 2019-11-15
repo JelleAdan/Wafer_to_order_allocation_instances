@@ -7,3 +7,6 @@ The problem instances are available in both .txt and .csv format.
 
 Each line consists of 9 comma separated columns. 
 
+Each instance consists of multiple groups. A group is indicated by a line that starts with "Group" followed by the group number. 
+
+Each group consists of bins and wafers, which are indicated by a line that starts with "BINS" and "WAFERS" respectively.
